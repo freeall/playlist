@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "WIP",
   "dependencies": {
-    "browserify": "^8.1.3",
+    "riot": "^2.0.8",
     "riotify": "0.0.7"
   },
   "devDependencies": {},
